@@ -1,10 +1,10 @@
-<link rel="stylesheet" href="https://raw.githubusercontent.com/oblivmax/howlstudios/main/assets/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/oblivmax/oblivmax/main/assets/style.css">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oblivmax/howlstudios/main/assets/maxlogo.png" alt="Max Logo" width="150"/>
-  <br/>
+<div style="text-align: center;">
+  <img src="https://<tu-usuario>.github.io/howlstudios/assets/maxlogo.png" alt="Max Logo" width="150">
   <h1>👋 Hey! I'm Max</h1>
-</p>
+</div>
+
 
 <p align="center">
 🖥️ Programmer & Designer · 💻 Java, PHP, HTML, Python & more · 🎨 Creative projects enthusiast
